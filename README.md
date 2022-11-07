@@ -6,7 +6,7 @@
 
  
 
- 🎇 **Lista de requerimientos:**
+ 🎇**Lista de requerimientos:**
 
  
 
@@ -20,7 +20,7 @@
 
  
 
-  🎇**¿Cómo fue el proceso de armado del proyecto?**
+  🎇 **¿Cómo fue el proceso de armado del proyecto?**
 
   - Primero, se eligió la temática o el local ficticio que se iba a representar en la página, en este caso, se escogió Tatuajes 
 
